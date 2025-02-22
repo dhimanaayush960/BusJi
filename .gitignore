@@ -1,0 +1,4 @@
+node_modules
+
+# Firebase credentials
+backend/firebase-admin-sdk.json
